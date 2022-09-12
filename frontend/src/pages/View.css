@@ -1,0 +1,29 @@
+.top-view {
+  margin-top: 100px;
+}
+
+.card {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  border: 2px #5c5239 solid;
+  border-radius: 10px;
+  align-content: center;
+  margin: 0 auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.card-header {
+  height: 30%;
+  background-color: #5c5239;
+  color: white;
+  text-align: center;
+}
+
+.card-header p {
+  font-size: 20px;
+}
+
+.container {
+  padding: 4px 16px;
+}
